@@ -24,7 +24,7 @@ The dashboard also enables us to select best eleven of the tournament based on t
 - ## Video Demo
 -https://drive.google.com/file/d/1jjdSpuavIulDIxBbS09Fj4EgB5aeWUss/view?usp=sharing
  ### All Sheets
- ![image](https://github.com/user-attachments/assets/148c9455-82c0-4216-abb5-45552871bfc0)
+
  ![image](https://github.com/user-attachments/assets/98872d3c-f932-411f-9977-739bc7daaa91)
  ![Screenshot 2025-03-12 130340](https://github.com/user-attachments/assets/ab08ada4-b3b3-4242-b16c-926e74ac7c00)
  ![Screenshot 2025-04-06 103806](https://github.com/user-attachments/assets/51a919ff-d4cc-4f1b-8f08-cbabbcea3992)
