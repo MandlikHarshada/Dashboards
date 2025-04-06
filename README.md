@@ -22,5 +22,5 @@ The dashboard also enables us to select best eleven of the tournament based on t
 - Power BI -> Power Query, DAX
 
 - ## Video Demo
-- <https://drive.google.com/file/d/19PCd5GIJLmhPSWX2tF88boINnw_ChJDi/view?usp=drive_link>
+-https://drive.google.com/file/d/1jjdSpuavIulDIxBbS09Fj4EgB5aeWUss/view?usp=sharing
   
